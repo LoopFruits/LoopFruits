@@ -13,6 +13,8 @@
 
 - 📫 How to reach me **Kensworldc@gmail.com**
 
+- 💭 I'm currently open for: [An Intern or a new job opportunity.](An Intern or a new job opportunity.)
+
 - ⚡ Fun fact **I am a huge Football fan ⚽**
 
 <h3 align="left">Connect with me:</h3>
@@ -26,3 +28,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=loopfruits&show_icons=true&locale=en&layout=compact" alt="loopfruits" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=loopfruits&show_icons=true&locale=en" alt="loopfruits" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=loopfruits&" alt="loopfruits" /></p>
