@@ -32,11 +32,11 @@
 
 ## 📈 Github Stats
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=loopfruits&theme=algolia&show_icons=true&locale=en&layout=compact" alt="loopfruits" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=loopfruits&theme=prussian&show_icons=true&locale=en&layout=compact" alt="loopfruits" /></p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=loopfruits&theme=algolia&show_icons=true&locale=en" alt="loopfruits" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=loopfruits&theme=algolia" alt="loopfruits" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=loopfruits&theme=prussian" alt="loopfruits" /></p>
 
 ### :trophy: Git profile Trophies
 
