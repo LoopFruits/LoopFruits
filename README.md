@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kenneth Jordan</h1>
 <h3 align="center">A passionate Software Engineer from the USA</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=loopfruits&label=Profile%20views&color=0e75b6&style=flat" alt="loopfruits" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=loopfruits&label=Profile%20views&color=&style=flat" alt="loopfruits" /> </p>
 
 
 - 🔭 I’m currently working on a Full Stack application using React.js and Ruby on Rails [to-do-done](https://github.com/LoopFruits/to-do-done)
@@ -32,11 +32,11 @@
 
 ## 📈 Github Stats
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=loopfruits&show_icons=true&locale=en&layout=compact" alt="loopfruits" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=loopfruits&theme=algolia&show_icons=true&locale=en&layout=compact" alt="loopfruits" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=loopfruits&show_icons=true&locale=en" alt="loopfruits" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=loopfruits&theme=algolia&show_icons=true&locale=en" alt="loopfruits" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=loopfruits&" alt="loopfruits" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=loopfruits&theme=algolia" alt="loopfruits" /></p>
 
 ### :trophy: Git profile Trophies
 
