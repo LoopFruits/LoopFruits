@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **Kensworldc@gmail.com**
 
-- 💭 I'm currently open for: [An Intern or a new job opportunity.](An Intern or a new job opportunity.)
+- 💭 I'm currently open for: Software Engineering position
 
 - ⚡ Fun fact **I am a huge Football fan ⚽**
 
