@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kenneth Jordan</h1>
 <h3 align="center">A passionate Software Engineer from the USA</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=loopfruits&label=Profile%20views&color=&style=flat" alt="loopfruits" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=loopfruits&label=Profile%20views&color=red&style=flat" alt="loopfruits" /> </p>
 
 
 - 🔭 I’m currently working on a Full Stack application using React.js and Ruby on Rails [to-do-done](https://github.com/LoopFruits/to-do-done)
