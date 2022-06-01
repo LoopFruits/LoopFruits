@@ -14,7 +14,7 @@
 
 - 💭 I'm currently open for: An `Software Engineering position`.
 
-- ⚡ Fun fact **I am a huge Football fan ⚽**
+- ⚡ Fun fact **I am Bilingual**
 <br>
 
 <h3 align="left">Connect with me:</h3>
