@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=loopfruits&label=Profile%20views&color=red&style=flat" alt="loopfruits" /> </p>
 
 
-- 🔭 I’m currently working on a Full Stack application using React.js and Ruby on Rails [to-do-done](https://github.com/LoopFruits/to-do-done)
+- 🔭 I’m currently working on a my portfolio. 
 
 - 📝 I regularly write articles on [https://medium.com/@Kenneththedev](https://medium.com/@Kenneththedev)
 
