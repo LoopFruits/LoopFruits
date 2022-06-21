@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=loopfruits&label=Profile%20views&color=red&style=flat" alt="loopfruits" /> </p>
 
 
-- 🔭 I’m currently working on a my portfolio. 
+- 🔭 I’m currently working on a my  portfolio [kenneth-the-dev](https://github.com/LoopFruits/LoopFruits)
 
 - 📝 I regularly write articles on [https://medium.com/@Kenneththedev](https://medium.com/@Kenneththedev)
 
