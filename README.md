@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kenneth Jordan</h1>
-<h3 align="center">A passionate Software Engineer from the USA</h3>
+<h3 align="center">Passionate Software Engineer from the USA</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=loopfruits&label=Profile%20views&color=red&style=flat" alt="loopfruits" /> </p>
 
