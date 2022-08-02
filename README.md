@@ -2,7 +2,7 @@
 <div align="center">
 	<br>
 	<a href="https://github.com/LoopFruits/LoopFruits/blob/main/Header.gif">
-		<img src="Header.gif" width="800" height="400" alt="Kenneth Jordan Header">
+		<img src="Header.gif" width="800" height="200" alt="Kenneth Jordan Header">
 	</a>
 	<br>
 </div>
