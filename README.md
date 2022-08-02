@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kenneth Jordan</h1>
+<p align="center"> <img src="https://www.canva.com/design/DAFILgyaS7I/0IuTrLS8kZgsKKqheg5FIw/watch?utm_content=DAFILgyaS7I&utm_campaign=celebratory_first_publish&utm_medium=link&utm_source=celebratory_first_publish" alt="loopfruits" /> </p>
 <h3 align="center">Passionate Software Engineer from the USA</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=loopfruits&label=Profile%20views&color=red&style=flat" alt="loopfruits" /> </p>
