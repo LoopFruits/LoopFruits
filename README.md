@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kenneth Jordan</h1>
-
+<div align="center">
+	<br>
+	<a href="https://github.com/LoopFruits/LoopFruits/blob/main/Header.gif">
+		<img src="Header.gif" width="800" height="400" alt="Kenneth Jordan Header">
+	</a>
+	<br>
+</div>
 <h3 align="center">Passionate Software Engineer from the USA</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=loopfruits&label=Profile%20views&color=red&style=flat" alt="loopfruits" /> </p>
