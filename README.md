@@ -11,7 +11,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=loopfruits&label=Profile%20views&color=red&style=flat" alt="loopfruits" /> </p>
 
 
-- 🔭 I’m currently working on a my on e-commerce website [theBakery](https://github.com/LoopFruits/theBakery)
+- 🔭 I’m currently working on a my on E-commerce website [theBakery](https://github.com/LoopFruits/theBakery)
 
 - 📝 I regularly write articles on [https://medium.com/@Kenneththedev](https://medium.com/@Kenneththedev)
 
