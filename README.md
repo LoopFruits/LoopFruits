@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **Kensworldc@gmail.com**
 
-- 💭 I'm currently open for: An `Junior Software Engineering position`.
+- 💭 I'm currently open for: A `Junior Software Engineering position`.
 
 - ⚡ Fun fact **I am Bilingual**
 <br>
