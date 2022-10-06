@@ -17,11 +17,11 @@
 
 - 💬 Ask me about **React, JavaScript and Ruby on Rails**
 
-- 📫 How to reach me **Kensworldc@gmail.com**
+- 📫 How to reach me **kenneththedev@gmail.com**
 
 - 💭 I'm currently open for: A `Junior Software Engineering position`.
 
-- ⚡ Fun fact **I am Bilingual**
+- ⚡ Fun fact ** I have European Citizenship**
 <br>
 
 <h3 align="left">Connect with me:</h3>
