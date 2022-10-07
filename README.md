@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@Kenneththedev](https://medium.com/@Kenneththedev)
 
-- 💬 Ask me about **React, JavaScript and Ruby on Rails**
+- 💬 Ask me about **React.js, JavaScript and Ruby on Rails**
 
 - 📫 How to reach me **kenneththedev@gmail.com**
 
