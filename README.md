@@ -39,6 +39,14 @@
 
 <br>
 
+<details><summary>show more</summary>
+<p>
+
+here is more...
+
+</p>
+</details>
+
 ## 📈 Github Stats
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=loopfruits&theme=prussian&show_icons=true&locale=en&layout=compact" alt="loopfruits" /></p>
