@@ -39,7 +39,7 @@
 
 <br>
 
-<details><summary>show more</summary>
+<details><summary>show more Github Stats</summary>
 <p>
 
 here is more...
