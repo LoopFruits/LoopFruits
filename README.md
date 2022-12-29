@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **kenneththedev@gmail.com**
 
-- 💭 I'm currently open for: A `Junior Software Engineering/Developer position`.
+- 💭 I'm currently open for: A `Front End | Software Engineer Position`.
 
 - ⚡ Fun fact ** I have European Citizenship**
 <br>
