@@ -11,7 +11,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=loopfruits&label=Profile%20views&color=red&style=flat" alt="loopfruits" /> </p>
 
 
-- 🔭 I’m currently working on my react portfolio [react-portfolio](https://github.com/LoopFruits/react-portfolio)
+- 🔭 I’m currently working on a cloned version of ChatGPT [react-portfolio](https://github.com/LoopFruits/react-portfolio)
 
 - 📝 I regularly write articles on [https://medium.com/@Kenneththedev](https://medium.com/@Kenneththedev)
 
