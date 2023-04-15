@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@Kenneththedev](https://medium.com/@Kenneththedev)
 
-- 💬 Ask me about ** Why I prefr Insomnia over Postman**
+- 💬 Ask me about **Why I prefer Insomnia over Postman**
 
 - 📫 How to reach me **kenneththedev@gmail.com**
 
