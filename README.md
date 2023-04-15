@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@Kenneththedev](https://medium.com/@Kenneththedev)
 
-- 💬 Ask me about **React.js, JavaScript or Ruby on Rails**
+- 💬 Ask me about ** Why I prefr Insomnia over Postman**
 
 - 📫 How to reach me **kenneththedev@gmail.com**
 
