@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on a cloned version of [ChatGPT-React](https://github.com/LoopFruits/ChatGPT-React)
 
-- 📝 I regularly write articles on [https://medium.com/@Kenneththedev](https://medium.com/@Kenneththedev)
+- 📝 I write articles on [https://medium.com/@Kenneththedev](https://medium.com/@Kenneththedev)
 
 - 💬 Ask me about **Why I prefer Insomnia over Postman**
 
