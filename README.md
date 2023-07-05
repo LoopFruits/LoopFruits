@@ -13,13 +13,15 @@
 
 - 🔭 I’m currently working on a cloned version of [sportlytics](https://github.com/LoopFruits/sportlytics)
 
+- Check out my portfolio website! https://kenneththedev.netlify.app/
+
 - 📝 I write articles on [https://medium.com/@Kenneththedev](https://medium.com/@Kenneththedev)
 
 - 💬 Ask me about **Why I prefer Insomnia over Postman**
 
 - 📫 How to reach me **kenneththedev@gmail.com**
 
-- 💭 I'm currently open for: A `Front End | Full Stack Software Engineer Position`.
+- 💭 I'm currently open for A: `Front End | Full Stack Software Engineer Position`.
 
 - ⚡ Fun fact ** I have European Citizenship**
 <br>
