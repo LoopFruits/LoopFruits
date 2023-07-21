@@ -11,7 +11,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=loopfruits&label=Profile%20views&color=red&style=flat" alt="loopfruits" /> </p>
 
 
-- 🔭 I’m currently working on a cloned version of [sportlytics](https://github.com/LoopFruits/sportlytics)
+- 🔭 I’m currently working on a cloned version of [mental-health](https://github.com/LoopFruits/mental-health)
 
 - Check out my portfolio website! https://kenneththedev.netlify.app/
 
