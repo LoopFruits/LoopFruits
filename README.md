@@ -11,7 +11,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=loopfruits&label=Profile%20views&color=red&style=flat" alt="loopfruits" /> </p>
 
 
-- 🔭 I’m currently working on [Open-Source-Hackfest](hhttps://github.com/ImPrithibi/Open-Source-Hackfest)
+- 🔭 I’m currently working on [Open-Source-Hackfest](https://github.com/ImPrithibi/Open-Source-Hackfest)
 
 - Check out my portfolio website! https://kenneththedev.netlify.app/
 
